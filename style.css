@@ -1,0 +1,27 @@
+body{
+ background-image: linear-gradient(to right top, #02f6fa, #5efa04, #fa08da, #b009e2, #eeff04);
+    
+}
+#start
+{
+    font-size: 18px;
+}
+#status , #number_of_objects
+{
+    font-size: 18;
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: honeydew;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
